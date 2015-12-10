@@ -5,7 +5,7 @@ import org.springframework.orm.ibatis.support.SqlMapClientDaoSupport;
 
 import java.sql.SQLException;
 
-public class DeveloperDAO extends SqlMapClientDaoSupport{13412342341
+public class DeveloperDAO extends SqlMapClientDaoSupport{
 
 	public Developer getDeveloperByApiKey(String apiKey) {
 	Developer developer = new Developer();
