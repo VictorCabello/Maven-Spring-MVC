@@ -3,7 +3,9 @@ package com.richardhoppes.example.common;
 import com.richardhoppes.example.exception.NotFoundException;
 
 import java.util.Properties;
-
+/**
+ * test
+ */
 public class Settings {
 
 	private Properties configProperties;
